@@ -1,0 +1,54 @@
+.jnt-arriere-plan{
+    background-image: url(../images/slide-02.jpg);
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    padding-top: 3em;
+}
+
+.jnt-titre{
+    font-weight: bold;
+    padding-bottom: 1em;
+}
+.jnt-insc-par{
+    padding-bottom: 1em;
+}
+.jnt-position{
+    text-align: end;
+}
+.jnt-chp-insc{
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.jnt-message{
+    padding-bottom: 1em;
+    color: rgb(189, 3, 3);
+}
+.btnInscription{
+    font-size: 20px;
+}
+.jnt-lien-connect{
+    color: rgb(235, 234, 236);
+}
+.jnt-lien-connect:hover{
+    color: rgb(11, 197, 82);
+}
+.jnt-form{
+    background-color: rgb(1, 2, 22);
+    opacity: 0.6;
+    padding: 2em;
+}
+.jnt-pad-top{
+    padding-top: 3em;
+}
+.text-align-end{
+    text-align: end;
+}
+.jnt-bloc-livre{
+    margin: 1em;
+}
