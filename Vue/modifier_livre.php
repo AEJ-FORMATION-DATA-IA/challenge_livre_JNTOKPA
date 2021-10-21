@@ -57,8 +57,8 @@ include_once '../Controlleurs/traitement_modifier_livre.php';
                             <label><span class="text-form">Titre:</span><input name="titre" type="text" value="<?= $titre; ?>" required /></label>
                             <label><span class="text-form">Auteur:</span><input name="auteur" type="text" value="<?= $auteur; ?>" required /></label>
                             <label><span class="text-form">Paru le:</span><input name="date_parution" type="date" value="<?= $date_parution; ?>" required /></label>
-                            <label><span class="text-form">OldImage:</span><input name="oldImage" type="hidden" value="<?= $oldImage; ?>" /></label>
-                            <label><span class="text-form">Image:</span><input name="newImage" type="file" /></label>
+                            <!--label><span class="text-form"></span--><input name="oldImage" type="hidden" value="<?= $oldImage; ?>" /><!--/label-->
+                            
                             <div class="wrapper">
                                 <div class="text-form">Description:</div>
                                 <div class="extra-wrap">
